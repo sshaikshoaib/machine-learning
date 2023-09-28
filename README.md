@@ -1,2 +1,2 @@
 # machine-learning
-implemented few machine learning algorithms using puthon
+implemented few machine learning algorithms using python
